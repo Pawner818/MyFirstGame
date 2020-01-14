@@ -2,11 +2,12 @@
 #ifndef _RUNGAME_H
 #define _RUNGAME_H
 #include <iostream>
+#include <ctime>
 
-bool RunGame();
+void Print(int Difficulty);
 
-int Sum(int a, int b, int c);
+bool RunGame(int Difficulty);
 
-int Product(int a, int b, int c);
+
 
 #endif
