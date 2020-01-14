@@ -1,4 +1,3 @@
-
 #include "RunGame.h"
 
 int main()
@@ -22,8 +21,8 @@ int main()
     
 }
 
-//Final Message
-std::cout<<"*** Good job, agent! You got all the files! Now get out of there! ***"<<std::endl;
+    //Final Message
+    std::cout<<"*** Good job, agent! You got all the files! Now get out of there! ***"<<std::endl;
 
     return 0;
 
