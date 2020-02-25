@@ -5,9 +5,6 @@
 #include <ctime>
 
 void Print(int Difficulty);
-
 bool RunGame(int Difficulty);
-
-
 
 #endif
