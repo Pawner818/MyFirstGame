@@ -1,2 +1,2 @@
 # MyFirstGame
- Here I'm gonna try to create my first conssole mini-game in C++ style!
+My first conssole mini-game in C++ style! Try to guess the correct number.
